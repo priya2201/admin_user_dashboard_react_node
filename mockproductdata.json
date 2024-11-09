@@ -1,0 +1,263 @@
+[
+    {
+        "title": "blue denim jeans",
+        "slug": "blue-denim-jeans",
+        "description": "classic fit denim jeans",
+        "price": 1200,
+        "category": "denim",
+        "brand": "levis",
+        "quantity": 3
+    },
+    {
+        "title": "black leather jacket",
+        "slug": "black-leather-jacket",
+        "description": "premium leather for bikers",
+        "price": 4500,
+        "category": "leather",
+        "brand": "harley",
+        "quantity": 2
+    },
+    {
+        "title": "red cotton t-shirt",
+        "slug": "red-cotton-t-shirt",
+        "description": "comfortable and stylish",
+        "price": 600,
+        "category": "cotton",
+        "brand": "uniqlo",
+        "quantity": 10
+    },
+    {
+        "title": "green summer dress",
+        "slug": "green-summer-dress",
+        "description": "lightweight and airy",
+        "price": 1500,
+        "category": "summer",
+        "brand": "hm",
+        "quantity": 5
+    },
+    {
+        "title": "yellow raincoat",
+        "slug": "yellow-raincoat",
+        "description": "waterproof and durable",
+        "price": 2000,
+        "category": "outerwear",
+        "brand": "northface",
+        "quantity": 4
+    },
+    {
+        "title": "gray wool sweater",
+        "slug": "gray-wool-sweater",
+        "description": "warm and cozy for winter",
+        "price": 2500,
+        "category": "wool",
+        "brand": "gap",
+        "quantity": 6
+    },
+    {
+        "title": "black running shoes",
+        "slug": "black-running-shoes",
+        "description": "perfect for daily runs",
+        "price": 3000,
+        "category": "shoes",
+        "brand": "nike",
+        "quantity": 8
+    },
+    {
+        "title": "white tennis skirt",
+        "slug": "white-tennis-skirt",
+        "description": "sporty and chic",
+        "price": 1100,
+        "category": "sportswear",
+        "brand": "adidas",
+        "quantity": 7
+    },
+    {
+        "title": "brown leather belt",
+        "slug": "brown-leather-belt",
+        "description": "elegant and durable",
+        "price": 700,
+        "category": "accessories",
+        "brand": "fossil",
+        "quantity": 15
+    },
+    {
+        "title": "pink silk scarf",
+        "slug": "pink-silk-scarf",
+        "description": "soft and luxurious",
+        "price": 900,
+        "category": "silk",
+        "brand": "burberry",
+        "quantity": 12
+    },
+    {
+        "title": "beige trench coat",
+        "slug": "beige-trench-coat",
+        "description": "classic and timeless",
+        "price": 5000,
+        "category": "outerwear",
+        "brand": "burberry",
+        "quantity": 3
+    },
+    {
+        "title": "navy blue blazer",
+        "slug": "navy-blue-blazer",
+        "description": "perfect for formal occasions",
+        "price": 3500,
+        "category": "formal",
+        "brand": "ralph lauren",
+        "quantity": 4
+    },
+    {
+        "title": "orange polo shirt",
+        "slug": "orange-polo-shirt",
+        "description": "casual and comfortable",
+        "price": 800,
+        "category": "casual",
+        "brand": "lacoste",
+        "quantity": 9
+    },
+    {
+        "title": "purple yoga pants",
+        "slug": "purple-yoga-pants",
+        "description": "stretchy and comfortable",
+        "price": 1200,
+        "category": "activewear",
+        "brand": "lululemon",
+        "quantity": 11
+    },
+    {
+        "title": "white sports bra",
+        "slug": "white-sports-bra",
+        "description": "supportive and stylish",
+        "price": 1000,
+        "category": "activewear",
+        "brand": "nike",
+        "quantity": 5
+    },
+    {
+        "title": "black high heels",
+        "slug": "black-high-heels",
+        "description": "elegant and chic",
+        "price": 2500,
+        "category": "footwear",
+        "brand": "jimmy choo",
+        "quantity": 6
+    },
+    {
+        "title": "blue denim shorts",
+        "slug": "blue-denim-shorts",
+        "description": "perfect for summer",
+        "price": 1300,
+        "category": "denim",
+        "brand": "levis",
+        "quantity": 10
+    },
+    {
+        "title": "green cargo pants",
+        "slug": "green-cargo-pants",
+        "description": "stylish and functional",
+        "price": 1700,
+        "category": "casual",
+        "brand": "gap",
+        "quantity": 4
+    },
+    {
+        "title": "white cotton socks",
+        "slug": "white-cotton-socks",
+        "description": "soft and comfortable",
+        "price": 300,
+        "category": "accessories",
+        "brand": "uniqlo",
+        "quantity": 20
+    },
+    {
+        "title": "red wool hat",
+        "slug": "red-wool-hat",
+        "description": "warm and stylish",
+        "price": 800,
+        "category": "accessories",
+        "brand": "northface",
+        "quantity": 7
+    },
+    {
+        "title": "black sunglasses",
+        "slug": "black-sunglasses",
+        "description": "stylish UV protection",
+        "price": 2000,
+        "category": "accessories",
+        "brand": "ray-ban",
+        "quantity": 8
+    },
+    {
+        "title": "blue swim trunks",
+        "slug": "blue-swim-trunks",
+        "description": "perfect for the beach",
+        "price": 1100,
+        "category": "swimwear",
+        "brand": "speedo",
+        "quantity": 10
+    },
+    {
+        "title": "pink bikini",
+        "slug": "pink-bikini",
+        "description": "stylish and comfortable",
+        "price": 1500,
+        "category": "swimwear",
+        "brand": "victoria's secret",
+        "quantity": 5
+    },
+    {
+        "title": "gray running shorts",
+        "slug": "gray-running-shorts",
+        "description": "lightweight and breathable",
+        "price": 900,
+        "category": "activewear",
+        "brand": "adidas",
+        "quantity": 12
+    },
+    {
+        "title": "yellow hoodie",
+        "slug": "yellow-hoodie",
+        "description": "comfortable and stylish",
+        "price": 2000,
+        "category": "casual",
+        "brand": "nike",
+        "quantity": 7
+    },
+    {
+        "title": "black leggings",
+        "slug": "black-leggings",
+        "description": "comfortable and stretchy",
+        "price": 1300,
+        "category": "activewear",
+        "brand": "lululemon",
+        "quantity": 10
+    },
+    {
+        "title": "white graphic t-shirt",
+        "slug": "white-graphic-t-shirt",
+        "description": "stylish and trendy",
+        "price": 700,
+        "category": "casual",
+        "brand": "hm",
+        "quantity": 15
+    },
+    {
+        "title": "green flannel shirt",
+        "slug": "green-flannel-shirt",
+        "description": "warm and stylish",
+        "price": 1800,
+        "category": "casual",
+        "brand": "gap",
+        "quantity": 6
+    },
+    {
+        "title": "black wool coat",
+        "slug": "black-wool-coat",
+        "description": "warm and elegant",
+        "price": 6000,
+        "category": "outerwear",
+        "brand": "ralph lauren",
+        "quantity": 2
+    }
+]
